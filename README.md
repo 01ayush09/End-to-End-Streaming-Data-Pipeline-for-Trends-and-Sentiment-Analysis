@@ -23,6 +23,9 @@ Key capabilities include:
 
 ## Architecture & Workflow
 
+<img width="1536" height="1024" alt="system architecture" src="https://github.com/user-attachments/assets/05d5609a-6501-4dd3-8a5a-fbaa25f01f62" />
+
+
 ### Conceptual Workflow
 
 1. **Data Source**: Input stream (e.g., social media text, news feeds, logs)  
