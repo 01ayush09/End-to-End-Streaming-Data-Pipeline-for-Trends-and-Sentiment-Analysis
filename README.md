@@ -23,9 +23,6 @@ Key capabilities include:
 
 ## Architecture & Workflow
 
-![Uploading system architecture.png…]()
-
-
 ### Conceptual Workflow
 
 1. **Data Source**: Input stream (e.g., social media text, news feeds, logs)  
