@@ -5,7 +5,7 @@ This solution streams textual data, computes sentiment scores and trending topic
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This repository delivers a **streaming data pipeline** that ingests live data, processes it in real time, and performs **trends extraction** and **sentiment analysis**. The system is designed for extensibility and real-time insight generation using scalable components and Python.
 
@@ -21,7 +21,7 @@ Key capabilities include:
 
 ---
 
-## 🧠 Architecture & Workflow
+## Architecture & Workflow
 
 ### Conceptual Workflow
 
@@ -45,7 +45,7 @@ Key capabilities include:
 
 ---
 
-## 📁 Repository Breakdown
+## Repository Breakdown
 
 | File | Purpose |
 |------|---------|
@@ -57,7 +57,7 @@ Key capabilities include:
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **Python** (core pipeline logic)
 - **NLP Libraries** (NLTK / spaCy / TextBlob / VADER)
@@ -68,7 +68,7 @@ Key capabilities include:
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 - Python 3.8+
 - Install dependencies:
