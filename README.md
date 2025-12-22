@@ -45,15 +45,7 @@ Key capabilities include:
 
 ---
 
-## Repository Breakdown
 
-| File | Purpose |
-|------|---------|
-| `stream_data.py` | Entry point to ingest and stream raw data |
-| `data_pipeline.py` | Core pipeline logic (cleaning, sentiment, trends) |
-| `requirements.txt` | Python dependencies |
-| `README.md` | Documentation |
-| `LICENSE` | MIT License |
 
 ---
 
