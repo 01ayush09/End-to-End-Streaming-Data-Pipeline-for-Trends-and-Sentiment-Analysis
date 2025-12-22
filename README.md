@@ -35,7 +35,7 @@ Key capabilities include:
 
 ---
 
-## 🛠 Features
+## Features
 
 - Real-time streaming ingestion  
 - Sentiment computation  
