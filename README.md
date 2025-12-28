@@ -63,9 +63,4 @@ Key capabilities include:
 
 ---
 
-## Prerequisites
 
-- Python 3.8+
-- Install dependencies:
-```bash
-pip install -r requirements.txt
